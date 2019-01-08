@@ -1,6 +1,7 @@
 body{
     background: white url("images/background.jpg");
     background-size: cover, contain;
+    padding: 30px;
 }
 
 .navbar-header{
